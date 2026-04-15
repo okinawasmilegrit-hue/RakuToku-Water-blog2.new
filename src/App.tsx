@@ -95,27 +95,27 @@ export default function App() {
           <p className="text-[#2a2a2a] leading-loose mb-4">そんな沖縄の皆さまに「時間と心のゆとり」をお届けするために作られたのが、水道直結型ウォーターサーバー<strong>「楽得（ラクトク）ウォーター」</strong>です。</p>
           <p className="text-[#2a2a2a] leading-loose mb-4">ラクトクウォーターなら、ペットボトル生活での３つの手間がスッキリ解消されます！</p>
 
-          <div className="bg-[#f0f7ff] border border-[#c0d8f0] rounded-xl p-6 md:p-8 my-6">
-            <div className="flex gap-4 mb-6 pb-6 border-b border-dashed border-[#c0d8f0] items-start">
-              <div className="bg-[#1a6fa8] text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap shrink-0 mt-0.5">ラクラク①</div>
+          <div className="bg-[#f0f7ff] border border-[#c0d8f0] rounded-xl p-5 md:p-8 my-6">
+            <div className="flex flex-col md:flex-row gap-3 md:gap-4 mb-6 pb-6 border-b border-dashed border-[#c0d8f0] items-start">
+              <div className="bg-[#1a6fa8] text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap shrink-0 mt-0.5 self-start">ラクラク①</div>
               <div>
-                <strong className="block text-[0.95rem] text-[#0d4f7a] mb-1.5">重い買い出し・受け取りの手間なし！</strong>
+                <strong className="block text-[0.95rem] text-[#0d4f7a] mb-2 leading-relaxed">重い買い出し・受け取りの手間なし！</strong>
                 <p className="text-sm text-[#555] leading-relaxed m-0">水道管と直接つないで（直結して）使うため、お水を「買う」必要がなくなります。スーパーで重い思いをすることも、宅配ボトルの受け取りのために家で待機することもありません。</p>
               </div>
             </div>
             
-            <div className="flex gap-4 mb-6 pb-6 border-b border-dashed border-[#c0d8f0] items-start">
-              <div className="bg-[#1a6fa8] text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap shrink-0 mt-0.5">ラクラク②</div>
+            <div className="flex flex-col md:flex-row gap-3 md:gap-4 mb-6 pb-6 border-b border-dashed border-[#c0d8f0] items-start">
+              <div className="bg-[#1a6fa8] text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap shrink-0 mt-0.5 self-start">ラクラク②</div>
               <div>
-                <strong className="block text-[0.95rem] text-[#0d4f7a] mb-1.5">ゴミの分別・保管スペースが不要に！</strong>
+                <strong className="block text-[0.95rem] text-[#0d4f7a] mb-2 leading-relaxed">ゴミの分別・保管スペースが不要に！</strong>
                 <p className="text-sm text-[#555] leading-relaxed m-0">ペットボトルが出ないので、ラベル剥がしやボトルの洗浄・圧縮といった家事から解放されます。キッチンを占領していた「空きボトルのスペース」も空いて、お部屋がスッキリ広く使えます。</p>
               </div>
             </div>
 
-            <div className="flex gap-4 items-start">
-              <div className="bg-[#1a6fa8] text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap shrink-0 mt-0.5">ラクラク③</div>
+            <div className="flex flex-col md:flex-row gap-3 md:gap-4 items-start">
+              <div className="bg-[#1a6fa8] text-white text-xs font-bold px-3 py-1 rounded-full whitespace-nowrap shrink-0 mt-0.5 self-start">ラクラク③</div>
               <div>
-                <strong className="block text-[0.95rem] text-[#0d4f7a] mb-1.5">お湯を沸かす手間なし！冷蔵庫も広々！</strong>
+                <strong className="block text-[0.95rem] text-[#0d4f7a] mb-2 leading-relaxed">お湯を沸かす手間なし！冷蔵庫も広々！</strong>
                 <p className="text-sm text-[#555] leading-relaxed m-0">レバーを押すだけで「冷たいお水」も「熱いお湯（約85℃）」もすぐに出ます。ペットボトルを冷蔵庫で冷やしておく必要がないので、冷蔵庫の中も広々と使えます。朝のコーヒーや赤ちゃんのミルク作りも、待ち時間ゼロでスムーズに！</p>
               </div>
             </div>
@@ -146,7 +146,7 @@ export default function App() {
           <p className="text-[#2a2a2a] leading-loose mb-4">「今まで買っていたペットボトルのお水より美味しい！」と、乗り換えたお客様からも嬉しいお声をいただいています。</p>
           
           <img 
-            src="https://drive.google.com/uc?export=view&id=1hRaYnHTzLLkYEifzOrf5KoSob7as7Kxz" 
+            src="https://lh3.googleusercontent.com/d/1hRaYnHTzLLkYEifzOrf5KoSob7as7Kxz" 
             alt="沖縄仕様の5段階フィルター" 
             className="w-full rounded-xl my-8 object-cover shadow-sm border border-[#e2ddd8]"
           />
@@ -179,7 +179,7 @@ export default function App() {
             </ul>
 
             <img 
-              src="https://drive.google.com/uc?export=view&id=1oOdqtSXlLyNEbCOksMB5QYpkJi6BA2q2" 
+              src="https://lh3.googleusercontent.com/d/1oOdqtSXlLyNEbCOksMB5QYpkJi6BA2q2" 
               alt="ご案内モデル" 
               className="w-full rounded-xl mb-6 object-cover shadow-sm border border-[#e8c878]"
             />
