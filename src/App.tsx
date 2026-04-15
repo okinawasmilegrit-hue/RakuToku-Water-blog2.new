@@ -31,7 +31,7 @@ export default function App() {
             「毎日の小さな負担」をなくす定額制浄水サーバー
           </p>
           <a 
-            href="https://lstep.app/form/28365/ZMiflJ/69514a" 
+            href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=JY4gC7&liff_id=1656783300-KLG90La1" 
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-gradient-to-br from-[#e05a2b] to-[#c0381a] text-white text-base font-bold px-8 py-4 rounded-full shadow-[0_6px_24px_rgba(200,60,30,0.4)] tracking-wide hover:transform hover:-translate-y-0.5 transition-all"
@@ -191,7 +191,7 @@ export default function App() {
             />
             
             <a 
-              href="https://lstep.app/form/28365/ZMiflJ/69514a" 
+              href="https://liff.line.me/1656783300-KLG90La1/landing?follow=%40248vmjzs&lp=JY4gC7&liff_id=1656783300-KLG90La1" 
               target="_blank"
               rel="noopener noreferrer"
               className="block text-center bg-gradient-to-br from-[#e05a2b] to-[#c0381a] text-white text-lg font-bold px-6 py-5 rounded-xl shadow-[0_4px_20px_rgba(200,60,30,0.32)] tracking-wide hover:transform hover:-translate-y-0.5 hover:shadow-[0_8px_28px_rgba(200,60,30,0.4)] transition-all"
